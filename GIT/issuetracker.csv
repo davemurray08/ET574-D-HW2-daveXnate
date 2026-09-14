@@ -1,2 +1,4 @@
 ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
-1,task,5d06da7,closed,Task A,,Dave,9-Sep,9-Sep,9-Sep,
+1,task,5d06da7,closed,Task A,Dave,Dave,9-Sep,9-Sep,9-Sep,
+2,task,24a16a1,closed,Task B,Dave,Dave,11-Sep,11-Sep,11-Sep,
+3,task,,closed,Task B,Dave,Dave,11-Sep,11-Sep,11-Sep,
