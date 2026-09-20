@@ -2,4 +2,5 @@ ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 1,task,5d06da7,closed,Task A,Dave,Dave,9-Sep,9-Sep,9-Sep,
 2,task,24a16a1,closed,Task B,Dave,Dave,11-Sep,11-Sep,11-Sep,
 3,task,1c3b5aa,closed,Task B,Dave,Dave,11-Sep,11-Sep,11-Sep,
-7,issue,7b01b30,open,no response from teammate,Dave,Nathan,20-Sep,19-Sep,,teammate work incomplete
+4,issue,7b01b30,open,no response from teammate,Dave,Nathan,20-Sep,19-Sep,,teammate work incomplete
+5,issue,,open,teammate responded but still no update from their end on homework,Dave,Nathan,20-Sep,19-Sep,
